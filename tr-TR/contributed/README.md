@@ -10,3 +10,4 @@ Beego'nun geliştirilmesiyle birlikte üçüncü parti kütüphanelerin sayısı
 - [pongo2](https://github.com/oal/beego-pongo2) 
 - [keenio](https://github.com/pabdavis/beego_keenio) 
 - [casbin - RBAC ACL plugins](https://github.com/hsluoyz/casbin)
+- [beezap](https://github.com/GNURub/beezap)

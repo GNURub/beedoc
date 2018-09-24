@@ -9,3 +9,5 @@ beegoの開発と共に、beegoに基づいたサードパーティのライブ�
 - [gorelic](https://github.com/yvasiyarov/beego_gorelic) 
 - [pongo2](https://github.com/oal/beego-pongo2) 
 - [keenio](https://github.com/pabdavis/beego_keenio) 
+- [casbin - RBAC ACL plugins](https://github.com/hsluoyz/casbin)
+- [beezap](https://github.com/GNURub/beezap)
